@@ -15,7 +15,7 @@ This page is a showcase. **The source code of these projects is private** — ha
 | [MDW Guide](projects/mdw-guide.md) | Guide, map and itinerary planner for Milan Design Week, fed by an automated event scraper | [mdw-guide.com](https://mdw-guide.com) |
 | [bianchimino.com](projects/bianchimino.md) | Personal link hub and portfolio | [bianchimino.com](https://bianchimino.com) |
 | [College Soccer Hub](projects/college-soccer-hub.md) | ESPN-style platform for NCAA D1 men's soccer with an AI chat assistant, fed by a data scraper | _coming soon_ |
-| [HouseFi](projects/housefi.md) | _details coming soon_ | _coming soon_ |
+| [HouseFi](projects/housefi.md) | Shared-expenses platform for roommates, with AI receipt scanning and an MCP endpoint for AI agents | [housefi.lovable.app](https://housefi.lovable.app) |
 
 ---
 
@@ -27,4 +27,4 @@ This page is a showcase. **The source code of these projects is private** — ha
 
 ## Stack
 
-`TypeScript` · `React` · `TanStack Start` · `Vite` · `Tailwind CSS` · `Supabase (Postgres, Auth, Edge Functions)` · `Python` · `Playwright` · `BeautifulSoup` · `GitHub Actions` · `Google Gemini API` · `Leaflet` · `Cloudflare`
+`TypeScript` · `React` · `TanStack Start` · `Vite` · `Tailwind CSS` · `Supabase (Postgres, Auth, Edge Functions)` · `Python` · `Playwright` · `BeautifulSoup` · `GitHub Actions` · `Google Gemini API` · `Model Context Protocol (MCP)` · `Leaflet` · `Cloudflare`
