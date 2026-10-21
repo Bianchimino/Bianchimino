@@ -37,4 +37,4 @@ The project is two parts that only talk to each other over a secured API:
 
 ## Stack
 
-React 19 · TanStack Start & Router · TypeScript · Tailwind CSS · Leaflet · Supabase (Postgres, Auth, Edge Functions) · Python · Playwright · BeautifulSoup · GitHub Actions · Cloudflare · built with Lovable and Claude Code
+React 19 · TanStack Start & Router · TypeScript · Tailwind CSS · Leaflet · Supabase (Postgres, Auth, Edge Functions) · Python · Playwright · BeautifulSoup · GitHub Actions · Cloudflare · built with Lovable and AI coding agents

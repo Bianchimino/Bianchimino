@@ -1,6 +1,6 @@
 # Hi, I'm Michele Bianchi 👋
 
-I build full-stack web products fast by pairing AI-assisted development (Lovable, Claude Code) with my own engineering: data pipelines, scrapers, databases, serverless backends and LLM features.
+I build full-stack web products fast by pairing AI-assisted development (Lovable and AI coding agents) with my own engineering: data pipelines, scrapers, databases, serverless backends and LLM features.
 
 This page is a showcase. **The source code of these projects is private** — happy to walk through it in an interview or grant temporary read access on request.
 
@@ -22,7 +22,7 @@ This page is a showcase. **The source code of these projects is private** — ha
 
 ## How I work
 
-- **AI-first building:** I use Lovable and Claude Code to go from idea to deployed product quickly, then review, debug and extend the generated code myself.
+- **AI-first building:** I use Lovable and AI coding agents to go from idea to deployed product quickly, then review, debug and extend the generated code myself.
 - **Real data, automated:** my apps run on data I collect and refresh automatically with Python scrapers on scheduled GitHub Actions.
 - **Production basics:** authentication, row-level security, admin roles, API keys kept in secrets, SEO and mobile-first UI.
 
